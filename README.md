@@ -26,21 +26,21 @@ Install the necessary libraries using pip:
 ```bash
 pip install moviepy
 ```
-1.How to Use
+1. How to Use
 - Clone or download the repository.
 - Open a terminal or command prompt in the project folder.
 
-2.Run the Python script:
+2. Run the Python script:
 - venv\Scripts\activate
 - python video_to_audio_converter.py
 
-3.Follow the prompts:
+3. Follow the prompts:
 - Paste the path of the video file you want to convert.
 = Enter a name for the output audio file (e.g., output_audio).
 
-4.Choose the desired audio format:
+4. Choose the desired audio format:
 - Press 1 for MP3.
 - Press 2 for WAV.
 - Press 3 for OGG.
 
-5.The converted audio file will be saved in the directory specified by the user, and the user can choose the file name and format. By default, it will be saved in ``` C:\\Users\\Abhiraj Shilkar\\OneDrive\\Desktop\\python projects\\results\\```, but the user can modify the path as needed.
+5. The converted audio file will be saved in the directory specified by the user, and the user can choose the file name and format. By default, it will be saved in ``` C:\\Users\\Abhiraj Shilkar\\OneDrive\\Desktop\\python projects\\results\\```, but the user can modify the path as needed.
